@@ -8,7 +8,7 @@ Blog post: https://taidn.site/
 
 ![birthday1](/fig/birthdays.png)
 
-![birthday2](/fig/birthdays.png)
+![birthday2](/fig/birthdayscompare.png)
 
 ![conceptionsmonth](/fig/conceptionsmonth.png)
 
