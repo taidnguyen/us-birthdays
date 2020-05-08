@@ -1,6 +1,6 @@
 # Understanding Birthdays and Conceptions in the U.S.
 
-Blog post: https://taidn.site/
+Blog post: https://taidn.site/us-birthday.
 
 ### Data sources:
 * Jake VPD
